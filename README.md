@@ -37,7 +37,7 @@ rows shown above.
 .read seed-data.sql
 ```
 
-> Remember: You can re-run this read command anytime you want to restore the 
+> Remember: You can re-run this read command anytime you want to restore the
 > data you have deleted.
 
 For the following steps, you should execute the SQL command in the SQLite3 CLI,
@@ -54,7 +54,7 @@ Run the SQL command that returns the albums released between `2018` and `2020`.
 
 ## Query 3: `SELECT` for attributes matching a list of values
 
-Run the SQL command that returns the albums with `band_id`s of either `1`, `3`, 
+Run the SQL command that returns the albums with `band_id`s of either `1`, `3`,
 or `4`.
 
 ## Congratulations!
